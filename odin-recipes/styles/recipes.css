@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+
+.imagem {
+    border: 2px solid black;
+}
+
+.ingrediente {
+    margin-top: 5px;
+}
+
+.modo-de-preparo {
+    margin: 10px 50px 0 20px;
+    text-align: justify;
+}
