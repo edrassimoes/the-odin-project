@@ -1,10 +1,9 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: lightgoldenrodyellow;
+    font-family: "Comic Sans MS", cursive;
 }
 
-.imagem {
-    border: 2px solid black;
+h1 {
+    font-size: 50px;
 }
 
 .ingrediente {
@@ -14,4 +13,24 @@
 .modo-de-preparo {
     margin: 10px 50px 0 20px;
     text-align: justify;
+}
+
+.border {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #f8d814;
+    margin: 20px;
+    padding: 12px;
+}
+
+.container {
+    background-color: #eae8eb;
+    padding: 50px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
 }
