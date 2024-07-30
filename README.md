@@ -1,2 +1,2 @@
 # the-odin-project
-Repositório destinado ao curso de Fullstack com JavaScript da plataforma The Odin Project.
+Repositório destinado ao curso Foundations da plataforma The Odin Project.
