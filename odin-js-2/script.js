@@ -21,3 +21,14 @@ content.appendChild(div);
 
 div.appendChild(header_1)
 div.appendChild(paragrath_2);
+
+// ---------------------------------------------------------------------------------------------------------------------
+
+const btn_1 = document.querySelector("#btn-1");
+btn_1.onclick = () => alert("Hello World");
+
+const btn_2 = document.querySelector("#btn-2");
+btn_2.addEventListener("click", (e) => {
+  e.target.style.backgroundColor = 'blue';
+});
+
